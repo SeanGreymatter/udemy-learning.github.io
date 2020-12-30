@@ -1,0 +1,36 @@
+body {
+    background-color: cornsilk;
+    border: 1px black solid;
+    margin: 2.5%;
+    padding: 0 25px;
+}
+
+h1 {
+    color: rgb(0, 26, 105);
+    text-shadow: 1px 2px 5px rgba(220, 20, 60, 0.6);
+}
+
+h2 {
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    font-size: 2rem;
+    font-family: monospace;
+    /* text-decoration: ; */
+}
+
+p {
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    line-height: 1.4rem;
+    font-size: 1.25rem;
+    font-family: monospace;
+    
+}
+
+section {
+    margin: 25px 0;
+}
